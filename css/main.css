@@ -45,4 +45,8 @@ p{
 }
 .hightlight{
     background-color: #feebb7;
+    color:  #6c59a6;
+}
+.BoldText{
+    font-weight: bold;
 }
