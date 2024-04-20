@@ -50,3 +50,17 @@ p{
 .BoldText{
     font-weight: bold;
 }
+.LinkDownload{
+    background-color: #f9ca28;
+    color: #64491d;
+    font-family: arial,"times new roman";
+    font-size: 25px;
+    border-radius: 2.5%;
+    text-decoration: none;
+}
+.download{
+    text-align: center;
+}
+.bottom{
+    padding-bottom: 3%;
+}
